@@ -1,3 +1,17 @@
+# Curso: Robot Framework - Automatizando Testes no Padrão BDD
+
+Este repositório contém os estudos e práticas realizados durante o curso **"Robot Framework: automatizando testes no padrão BDD"** da plataforma Alura.
+
+## 📚 O que foi ensinado no curso
+
+Durante o curso, foram abordados os seguintes tópicos:
+
+- Construção de testes de caminho feliz com Robot Framework.
+- Realização de testes de comunicação com o usuário utilizando variáveis e keywords.
+- Configuração do início e fim dos testes, com aplicação de boas práticas de nomenclatura.
+- Utilização de estruturas de repetição e uma biblioteca de massa de dados para dinamizar os testes.
+- Organização de projetos utilizando o padrão **Page Object Model**.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
